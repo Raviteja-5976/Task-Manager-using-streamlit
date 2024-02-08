@@ -1,11 +1,12 @@
+# This page is for the admin to add a new member into the team.
 import streamlit as st
 import mysql.connector
 
 db_config = {
-    "host": "localhost",
-    "user": "root",
-    "password": "Raviteja@5312",
-    "database": "gdsc_data"
+    "host": "Host_name",
+    "user": "User_name",
+    "password": "Password",
+    "database": "Database_name"
 }
 
 
