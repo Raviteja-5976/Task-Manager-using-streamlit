@@ -1,11 +1,12 @@
+# This page is for the leads to monitor the progress in all the domains
 import streamlit as st
 import mysql.connector
 
 db_config = {
-    "host": "sql6.freemysqlhosting.net",
-    "user": "sql6682602",
-    "password": "Please wait",
-    "database": "sql6682602"
+    "host": "Host_name",
+    "user": "User_name",
+    "password": "Password",
+    "database": "Database_name"
 }
 
 # Establish the connection
@@ -252,10 +253,6 @@ def shta():
 
 
             st.write('-' * 50)
-
-
-                  
-      
 
 
 
