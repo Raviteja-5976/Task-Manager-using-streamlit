@@ -4,7 +4,7 @@ import datetime
 import re
 from deta import Deta
 
-DETA_KEY = 'a0cohums9s2_HSyScoV7PPwmhcBvBtukH38H2rXm7SKq'
+DETA_KEY = 'Deta APi Key'
 
 deta = Deta(DETA_KEY)
 
