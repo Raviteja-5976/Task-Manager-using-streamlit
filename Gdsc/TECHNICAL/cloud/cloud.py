@@ -7,7 +7,7 @@ from clauth import fetch_users
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "Raviteja@5312",
+    "password": " ",
     "database": "gdsc_data"
 }
 
