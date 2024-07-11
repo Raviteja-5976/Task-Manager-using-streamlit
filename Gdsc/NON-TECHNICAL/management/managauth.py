@@ -9,7 +9,7 @@ import deta as db
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "Raviteja@5312",
+    "password": " ",
     "database": "gdsc_data"
 }
 
